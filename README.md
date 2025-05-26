@@ -1,0 +1,1 @@
+# shingas.github.io
