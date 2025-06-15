@@ -1,0 +1,53 @@
+technical:
+  mern_stack:
+    - title: MongoDB
+      level: Advanced
+    - title: Express.js
+      level: Advanced
+    - title: React
+      level: Advanced
+    - title: Node.js
+      level: Advanced
+  frontend:
+    - title: HTML5
+      level: Advanced
+    - title: CSS3
+      level: Advanced
+    - title: JavaScript
+      level: Advanced
+    - title: Redux Toolkit
+      level: Intermediate
+  backend:
+    - title: REST API design
+      level: Advanced
+    - title: JWT authentication
+      level: Intermediate
+    - title: Error handling
+      level: Intermediate
+    - title: WebSockets
+      level: Beginner
+  dev_ops:
+    - title: Git/GitHub
+      level: Advanced
+    - title: Postman
+      level: Intermediate
+    - title: VS Code
+      level: Intermediate
+    - title: Heroku/Netlify
+      level: Beginner
+
+soft:
+  - title: Adaptive learning
+    level: Advanced
+  - title: Cross-functional communication
+    level: Advanced
+  - title: Deadline-driven development
+    level: Intermediate
+  - title: Problem decomposition
+    level: Intermediate
+  - title: User empathy
+    level: Intermediate
+  - title: Team collaboration
+    level: Advanced
+  - title: Persistent debugging
+    level: Advanced
